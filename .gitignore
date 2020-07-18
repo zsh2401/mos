@@ -1,0 +1,6 @@
+my-tools
+*.bin
+*.o
+*.img
+src/kernel
+src/mapp
